@@ -1,0 +1,600 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="949.22" viewBox="0 0 1920 949.22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f1f2f8;
+      }
+
+      .cls-3 {
+        opacity: 0.25;
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #fe5c4d;
+      }
+
+      .cls-5 {
+        fill: #ff897b;
+      }
+
+      .cls-6 {
+        fill: #70708c;
+      }
+
+      .cls-7 {
+        fill: #ff604d;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="417" height="370"/>
+    </clipPath>
+  </defs>
+  <g id="Group_11" data-name="Group 11" transform="translate(-173.5 -1274)">
+    <path id="Path_1" data-name="Path 1" class="cls-2" d="M0,0H1920V485.581L0,617Z" transform="translate(173.5 1274)"/>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-3" transform="translate(276.5 1413)">
+      <g transform="translate(-110 -252)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 -252)">
+        <circle id="Ellipse_1-2" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 -252)">
+        <circle id="Ellipse_1-3" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 -252)">
+        <circle id="Ellipse_1-4" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 -252)">
+        <circle id="Ellipse_1-5" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 -252)">
+        <circle id="Ellipse_1-6" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 -252)">
+        <circle id="Ellipse_1-7" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 -252)">
+        <circle id="Ellipse_1-8" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 -252)">
+        <circle id="Ellipse_1-9" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 -252)">
+        <circle id="Ellipse_1-10" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 -252)">
+        <circle id="Ellipse_1-11" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 -252)">
+        <circle id="Ellipse_1-12" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 -252)">
+        <circle id="Ellipse_1-13" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 -252)">
+        <circle id="Ellipse_1-14" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 -222)">
+        <circle id="Ellipse_1-15" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 -222)">
+        <circle id="Ellipse_1-16" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 -222)">
+        <circle id="Ellipse_1-17" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 -222)">
+        <circle id="Ellipse_1-18" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 -222)">
+        <circle id="Ellipse_1-19" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 -222)">
+        <circle id="Ellipse_1-20" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 -222)">
+        <circle id="Ellipse_1-21" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 -222)">
+        <circle id="Ellipse_1-22" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 -222)">
+        <circle id="Ellipse_1-23" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 -222)">
+        <circle id="Ellipse_1-24" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 -222)">
+        <circle id="Ellipse_1-25" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 -222)">
+        <circle id="Ellipse_1-26" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 -222)">
+        <circle id="Ellipse_1-27" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 -222)">
+        <circle id="Ellipse_1-28" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 -192)">
+        <circle id="Ellipse_1-29" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 -192)">
+        <circle id="Ellipse_1-30" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 -192)">
+        <circle id="Ellipse_1-31" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 -192)">
+        <circle id="Ellipse_1-32" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 -192)">
+        <circle id="Ellipse_1-33" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 -192)">
+        <circle id="Ellipse_1-34" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 -192)">
+        <circle id="Ellipse_1-35" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 -192)">
+        <circle id="Ellipse_1-36" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 -192)">
+        <circle id="Ellipse_1-37" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 -192)">
+        <circle id="Ellipse_1-38" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 -192)">
+        <circle id="Ellipse_1-39" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 -192)">
+        <circle id="Ellipse_1-40" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 -192)">
+        <circle id="Ellipse_1-41" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 -192)">
+        <circle id="Ellipse_1-42" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 -162)">
+        <circle id="Ellipse_1-43" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 -162)">
+        <circle id="Ellipse_1-44" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 -162)">
+        <circle id="Ellipse_1-45" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 -162)">
+        <circle id="Ellipse_1-46" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 -162)">
+        <circle id="Ellipse_1-47" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 -162)">
+        <circle id="Ellipse_1-48" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 -162)">
+        <circle id="Ellipse_1-49" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 -162)">
+        <circle id="Ellipse_1-50" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 -162)">
+        <circle id="Ellipse_1-51" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 -162)">
+        <circle id="Ellipse_1-52" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 -162)">
+        <circle id="Ellipse_1-53" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 -162)">
+        <circle id="Ellipse_1-54" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 -162)">
+        <circle id="Ellipse_1-55" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 -162)">
+        <circle id="Ellipse_1-56" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 -132)">
+        <circle id="Ellipse_1-57" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 -132)">
+        <circle id="Ellipse_1-58" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 -132)">
+        <circle id="Ellipse_1-59" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 -132)">
+        <circle id="Ellipse_1-60" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 -132)">
+        <circle id="Ellipse_1-61" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 -132)">
+        <circle id="Ellipse_1-62" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 -132)">
+        <circle id="Ellipse_1-63" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 -132)">
+        <circle id="Ellipse_1-64" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 -132)">
+        <circle id="Ellipse_1-65" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 -132)">
+        <circle id="Ellipse_1-66" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 -132)">
+        <circle id="Ellipse_1-67" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 -132)">
+        <circle id="Ellipse_1-68" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 -132)">
+        <circle id="Ellipse_1-69" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 -132)">
+        <circle id="Ellipse_1-70" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 -102)">
+        <circle id="Ellipse_1-71" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 -102)">
+        <circle id="Ellipse_1-72" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 -102)">
+        <circle id="Ellipse_1-73" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 -102)">
+        <circle id="Ellipse_1-74" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 -102)">
+        <circle id="Ellipse_1-75" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 -102)">
+        <circle id="Ellipse_1-76" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 -102)">
+        <circle id="Ellipse_1-77" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 -102)">
+        <circle id="Ellipse_1-78" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 -102)">
+        <circle id="Ellipse_1-79" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 -102)">
+        <circle id="Ellipse_1-80" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 -102)">
+        <circle id="Ellipse_1-81" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 -102)">
+        <circle id="Ellipse_1-82" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 -102)">
+        <circle id="Ellipse_1-83" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 -102)">
+        <circle id="Ellipse_1-84" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 -72)">
+        <circle id="Ellipse_1-85" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 -72)">
+        <circle id="Ellipse_1-86" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 -72)">
+        <circle id="Ellipse_1-87" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 -72)">
+        <circle id="Ellipse_1-88" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 -72)">
+        <circle id="Ellipse_1-89" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 -72)">
+        <circle id="Ellipse_1-90" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 -72)">
+        <circle id="Ellipse_1-91" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 -72)">
+        <circle id="Ellipse_1-92" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 -72)">
+        <circle id="Ellipse_1-93" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 -72)">
+        <circle id="Ellipse_1-94" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 -72)">
+        <circle id="Ellipse_1-95" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 -72)">
+        <circle id="Ellipse_1-96" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 -72)">
+        <circle id="Ellipse_1-97" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 -72)">
+        <circle id="Ellipse_1-98" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 -42)">
+        <circle id="Ellipse_1-99" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 -42)">
+        <circle id="Ellipse_1-100" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 -42)">
+        <circle id="Ellipse_1-101" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 -42)">
+        <circle id="Ellipse_1-102" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 -42)">
+        <circle id="Ellipse_1-103" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 -42)">
+        <circle id="Ellipse_1-104" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 -42)">
+        <circle id="Ellipse_1-105" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 -42)">
+        <circle id="Ellipse_1-106" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 -42)">
+        <circle id="Ellipse_1-107" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 -42)">
+        <circle id="Ellipse_1-108" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 -42)">
+        <circle id="Ellipse_1-109" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 -42)">
+        <circle id="Ellipse_1-110" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 -42)">
+        <circle id="Ellipse_1-111" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 -42)">
+        <circle id="Ellipse_1-112" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 -12)">
+        <circle id="Ellipse_1-113" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 -12)">
+        <circle id="Ellipse_1-114" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 -12)">
+        <circle id="Ellipse_1-115" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 -12)">
+        <circle id="Ellipse_1-116" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 -12)">
+        <circle id="Ellipse_1-117" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 -12)">
+        <circle id="Ellipse_1-118" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 -12)">
+        <circle id="Ellipse_1-119" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 -12)">
+        <circle id="Ellipse_1-120" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 -12)">
+        <circle id="Ellipse_1-121" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 -12)">
+        <circle id="Ellipse_1-122" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 -12)">
+        <circle id="Ellipse_1-123" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 -12)">
+        <circle id="Ellipse_1-124" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 -12)">
+        <circle id="Ellipse_1-125" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 -12)">
+        <circle id="Ellipse_1-126" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 18)">
+        <circle id="Ellipse_1-127" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 18)">
+        <circle id="Ellipse_1-128" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 18)">
+        <circle id="Ellipse_1-129" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 18)">
+        <circle id="Ellipse_1-130" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 18)">
+        <circle id="Ellipse_1-131" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 18)">
+        <circle id="Ellipse_1-132" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 18)">
+        <circle id="Ellipse_1-133" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 18)">
+        <circle id="Ellipse_1-134" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 18)">
+        <circle id="Ellipse_1-135" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 18)">
+        <circle id="Ellipse_1-136" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 18)">
+        <circle id="Ellipse_1-137" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 18)">
+        <circle id="Ellipse_1-138" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 18)">
+        <circle id="Ellipse_1-139" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 18)">
+        <circle id="Ellipse_1-140" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 48)">
+        <circle id="Ellipse_1-141" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 48)">
+        <circle id="Ellipse_1-142" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 48)">
+        <circle id="Ellipse_1-143" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 48)">
+        <circle id="Ellipse_1-144" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 48)">
+        <circle id="Ellipse_1-145" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 48)">
+        <circle id="Ellipse_1-146" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 48)">
+        <circle id="Ellipse_1-147" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 48)">
+        <circle id="Ellipse_1-148" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 48)">
+        <circle id="Ellipse_1-149" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 48)">
+        <circle id="Ellipse_1-150" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 48)">
+        <circle id="Ellipse_1-151" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 48)">
+        <circle id="Ellipse_1-152" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 48)">
+        <circle id="Ellipse_1-153" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 48)">
+        <circle id="Ellipse_1-154" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 78)">
+        <circle id="Ellipse_1-155" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 78)">
+        <circle id="Ellipse_1-156" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 78)">
+        <circle id="Ellipse_1-157" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 78)">
+        <circle id="Ellipse_1-158" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 78)">
+        <circle id="Ellipse_1-159" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 78)">
+        <circle id="Ellipse_1-160" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 78)">
+        <circle id="Ellipse_1-161" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 78)">
+        <circle id="Ellipse_1-162" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 78)">
+        <circle id="Ellipse_1-163" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 78)">
+        <circle id="Ellipse_1-164" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 78)">
+        <circle id="Ellipse_1-165" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 78)">
+        <circle id="Ellipse_1-166" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 78)">
+        <circle id="Ellipse_1-167" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 78)">
+        <circle id="Ellipse_1-168" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-110 108)">
+        <circle id="Ellipse_1-169" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-80 108)">
+        <circle id="Ellipse_1-170" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-50 108)">
+        <circle id="Ellipse_1-171" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(-20 108)">
+        <circle id="Ellipse_1-172" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(10 108)">
+        <circle id="Ellipse_1-173" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(40 108)">
+        <circle id="Ellipse_1-174" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(70 108)">
+        <circle id="Ellipse_1-175" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(100 108)">
+        <circle id="Ellipse_1-176" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(130 108)">
+        <circle id="Ellipse_1-177" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(160 108)">
+        <circle id="Ellipse_1-178" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(190 108)">
+        <circle id="Ellipse_1-179" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(220 108)">
+        <circle id="Ellipse_1-180" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(250 108)">
+        <circle id="Ellipse_1-181" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+      <g transform="translate(280 108)">
+        <circle id="Ellipse_1-182" data-name="Ellipse 1" class="cls-4" cx="5" cy="5" r="5" transform="translate(110 252)"/>
+      </g>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(1410.5 1400)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-5" width="386" height="571" rx="77"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-5" width="124" height="136"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-5" width="124" height="136" transform="translate(262 435)"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(1796.501 2072.312)">
+      <path id="Icon_awesome-instagram" data-name="Icon awesome-instagram" class="cls-6" d="M8.625,6.714A4.567,4.567,0,0,0,4.2,11.426a4.567,4.567,0,0,0,4.423,4.711,4.567,4.567,0,0,0,4.423-4.711A4.567,4.567,0,0,0,8.625,6.714Zm0,7.774a2.979,2.979,0,0,1-2.876-3.063A2.977,2.977,0,0,1,8.625,8.363,2.977,2.977,0,0,1,11.5,11.426,2.979,2.979,0,0,1,8.625,14.489Zm5.636-7.967a1.034,1.034,0,1,1-2.063,0,1.034,1.034,0,1,1,2.063,0Zm2.93,1.115A5.64,5.64,0,0,0,15.8,3.787,4.969,4.969,0,0,0,12.182,2.3c-1.424-.086-5.694-.086-7.118,0a4.961,4.961,0,0,0-3.615,1.48A5.658,5.658,0,0,0,.055,7.633c-.081,1.517-.081,6.065,0,7.582a5.64,5.64,0,0,0,1.394,3.85,4.975,4.975,0,0,0,3.615,1.484c1.424.086,5.694.086,7.118,0A4.937,4.937,0,0,0,15.8,19.065a5.677,5.677,0,0,0,1.394-3.85c.081-1.517.081-6.06,0-7.578Zm-1.84,9.205a3.013,3.013,0,0,1-1.64,1.747c-1.136.48-3.831.369-5.086.369s-3.954.107-5.086-.369A3.013,3.013,0,0,1,1.9,16.842c-.45-1.21-.346-4.08-.346-5.417s-.1-4.211.346-5.417a3.013,3.013,0,0,1,1.64-1.747c1.136-.48,3.831-.369,5.086-.369s3.954-.107,5.086.369a3.013,3.013,0,0,1,1.64,1.747c.45,1.21.346,4.08.346,5.417S15.8,15.637,15.35,16.842Z" transform="translate(1.872 -2.238)"/>
+      <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" class="cls-6" d="M11.474,11.809l.547-3.8H8.6V5.544A1.845,1.845,0,0,1,10.61,3.491h1.556V.257A17.852,17.852,0,0,0,9.4,0C6.585,0,4.743,1.82,4.743,5.114v2.9H1.609v3.8H4.743v9.185H8.6V11.809Z" transform="translate(3.058 43.748)"/>
+      <path id="Icon_awesome-linkedin" data-name="Icon awesome-linkedin" class="cls-6" d="M16.015,2.25H1.228A1.28,1.28,0,0,0,0,3.574V19.3A1.28,1.28,0,0,0,1.228,20.62H16.015A1.284,1.284,0,0,0,17.247,19.3V3.574A1.284,1.284,0,0,0,16.015,2.25ZM5.213,18H2.656V9.229h2.56V18ZM3.934,8.032A1.533,1.533,0,0,1,2.452,6.453,1.533,1.533,0,0,1,3.934,4.874,1.536,1.536,0,0,1,5.417,6.453,1.531,1.531,0,0,1,3.934,8.032ZM14.795,18H12.238V13.731c0-1.017-.019-2.325-1.328-2.325-1.332,0-1.536,1.107-1.536,2.251V18H6.818V9.229H9.27v1.2H9.3a2.667,2.667,0,0,1,2.422-1.415c2.587,0,3.068,1.816,3.068,4.178Z" transform="translate(1.867 87.865)"/>
+      <path id="Icon_awesome-twitter" data-name="Icon awesome-twitter" class="cls-6" d="M17.685,7.63c.013.186.013.373.013.56,0,5.688-4.065,12.242-11.494,12.242A10.915,10.915,0,0,1,0,18.5a7.851,7.851,0,0,0,.976.053,7.782,7.782,0,0,0,5.015-1.838,4.088,4.088,0,0,1-3.777-2.984,4.79,4.79,0,0,0,.763.067,4.027,4.027,0,0,0,1.063-.147A4.245,4.245,0,0,1,.8,9.429V9.375a3.883,3.883,0,0,0,1.826.546,4.379,4.379,0,0,1-1.8-3.583,4.485,4.485,0,0,1,.55-2.171,11.267,11.267,0,0,0,8.33,4.5,5.161,5.161,0,0,1-.1-.986,4.176,4.176,0,0,1,4.04-4.3A3.92,3.92,0,0,1,16.6,4.74,7.664,7.664,0,0,0,19.16,3.7a4.253,4.253,0,0,1-1.776,2.371,7.712,7.712,0,0,0,2.326-.666A9.014,9.014,0,0,1,17.685,7.63Z" transform="translate(0 130.476)"/>
+    </g>
+    <path id="Subtraction_6" data-name="Subtraction 6" class="cls-7" d="M386,571H77a76.641,76.641,0,0,1-43.052-13.15,77.515,77.515,0,0,1-11.4-9.4c-.469-.469-.944-.956-1.409-1.446H41.188l10.464-24.311H98.825L109.291,547h26.725L87.395,434.459H63.084l-46.4,107.4c-1.242-1.562-2.429-3.182-3.53-4.812a77.2,77.2,0,0,1-4.889-8.318c.611-.644,1.234-1.322,1.853-2.019L5.058,521.5A76.6,76.6,0,0,1,0,494V465.173l10.759-12.2A67.867,67.867,0,0,0,0,443.11V398H12.046L0,370.118V0H309A76.64,76.64,0,0,1,352.05,13.151a77.22,77.22,0,0,1,27.9,33.878A76.525,76.525,0,0,1,386,77v64.46H373.52V254H386V357.564L368.529,398H386v73.979a65.605,65.605,0,0,0,0,36.968V571Zm-93.462-68.275h44.758V547h25.116V434.459H337.295V481.47H292.537V434.459H267.422V547h25.115V502.723Zm-100.976,8.372L216.517,547h30.911l-28.5-40.25c14.209-5.235,21.413-16.989,21.413-34.937,0-13.034-3.765-22.621-11.19-28.5s-20.018-8.855-37.432-8.855H149.057V547h25.116v-35.9h17.388Zm126.9-228.211c-16.454,0-30.565,5.634-41.941,16.745s-17.147,25.168-17.147,41.779,5.661,30.561,16.825,41.458,25.573,16.422,42.826,16.422,32.448-7.259,45.16-21.574l-16.1-16.583a39.261,39.261,0,0,1-13.443,10.989,38.3,38.3,0,0,1-16.825,3.662,32.66,32.66,0,0,1-12.518-2.374,32.314,32.314,0,0,1-10.5-7.124,30.972,30.972,0,0,1-7.124-11.048,40.045,40.045,0,0,1-2.375-14.148A37.549,37.549,0,0,1,287.807,327a29.815,29.815,0,0,1,7.547-10.867,34.587,34.587,0,0,1,11.089-6.943,36.661,36.661,0,0,1,13.142-2.315,36,36,0,0,1,16.26,3.7,40.621,40.621,0,0,1,13.363,11.108l15.618-17.709C352.433,289.98,336.832,282.884,318.459,282.884ZM168.567,353.722h44.758V398h25.116V285.459H213.325v47.012H168.567V285.459H143.451V398h25.116V353.723l0,0ZM67.591,362.1,92.546,398h30.911l-28.5-40.25c14.209-5.236,21.413-16.99,21.413-34.937,0-13.034-3.764-22.621-11.189-28.5s-20.019-8.855-37.433-8.855H25.087V398H50.2V362.1H67.591ZM188.852,138.884c-16.453,0-30.563,5.633-41.94,16.744s-17.147,25.167-17.147,41.78,5.661,30.56,16.825,41.458,25.572,16.421,42.826,16.421,32.449-7.258,45.161-21.574l-16.1-16.583a39.249,39.249,0,0,1-13.443,10.988,38.3,38.3,0,0,1-16.825,3.663,32.655,32.655,0,0,1-12.518-2.374,32.317,32.317,0,0,1-10.506-7.125,30.924,30.924,0,0,1-7.123-11.048,40.057,40.057,0,0,1-2.375-14.148A37.547,37.547,0,0,1,158.2,183a29.824,29.824,0,0,1,7.547-10.868,34.578,34.578,0,0,1,11.088-6.943,36.689,36.689,0,0,1,13.142-2.315,36,36,0,0,1,16.261,3.7A40.621,40.621,0,0,1,219.6,177.685l15.617-17.71C222.828,145.981,207.227,138.884,188.852,138.884Zm87.261,90.8h47.174L333.752,254h26.726L311.856,141.46H287.546L238.924,254h26.725l10.465-24.311,0,0ZM38.96,209.723h0l44.758,0V254h25.115V141.46H83.72v47.012H38.962V141.46H13.846V254H38.962V209.724ZM67.7,1.885c-16.453,0-30.564,5.634-41.941,16.744S8.613,43.8,8.613,60.408s5.66,30.563,16.824,41.458,25.572,16.422,42.826,16.422,32.446-7.259,45.16-21.574l-16.1-16.583A39.246,39.246,0,0,1,83.88,91.12a38.288,38.288,0,0,1-16.825,3.662,32.655,32.655,0,0,1-12.518-2.374,32.259,32.259,0,0,1-10.5-7.124,30.959,30.959,0,0,1-7.124-11.048,40.052,40.052,0,0,1-2.374-14.148A37.568,37.568,0,0,1,37.049,46,29.823,29.823,0,0,1,44.6,35.132a34.61,34.61,0,0,1,11.089-6.943,36.681,36.681,0,0,1,13.142-2.315,36.009,36.009,0,0,1,16.26,3.7A40.636,40.636,0,0,1,98.451,40.685l15.617-17.709C101.674,8.981,86.074,1.885,67.7,1.885ZM277.483,81.1h17.388L319.826,117h30.911l-28.5-40.25c14.209-5.234,21.413-16.988,21.413-34.937,0-13.031-3.764-22.618-11.189-28.5S312.442,4.46,295.032,4.46H252.366V117h25.116ZM154.961,92.689h47.173L212.6,117h26.725L190.7,4.46H166.393L117.77,117H144.5l10.464-24.311ZM89.326,500.63H61.151l14.168-32.683,14.006,32.681Zm103.2-11.27H174.173V456.033H193.01a53.5,53.5,0,0,1,10.263.845,17.692,17.692,0,0,1,6.642,2.536,10.206,10.206,0,0,1,3.623,4.81,21.444,21.444,0,0,1,1.208,7.668,23.885,23.885,0,0,1-1.167,7.868,12.885,12.885,0,0,1-3.5,5.414,15.316,15.316,0,0,1-6.722,3.139A47.761,47.761,0,0,1,192.527,489.36Zm-123.97-149H50.2V307.034H69.04a53.466,53.466,0,0,1,10.264.845,17.679,17.679,0,0,1,6.641,2.536,10.2,10.2,0,0,1,3.622,4.809,21.448,21.448,0,0,1,1.208,7.668,23.908,23.908,0,0,1-1.167,7.869,12.9,12.9,0,0,1-3.5,5.414,15.326,15.326,0,0,1-6.722,3.139A47.8,47.8,0,0,1,68.557,340.361Zm245.232-132.73H285.613l14.169-32.683,14.006,32.682Zm-121.152-137H164.461l14.168-32.684,14.007,32.683Zm103.2-11.271H277.483V26.035H296.32a53.52,53.52,0,0,1,10.264.845,17.69,17.69,0,0,1,6.641,2.535,10.208,10.208,0,0,1,3.622,4.811,21.453,21.453,0,0,1,1.208,7.667,23.9,23.9,0,0,1-1.167,7.87,12.863,12.863,0,0,1-3.5,5.413,15.294,15.294,0,0,1-6.722,3.14A47.771,47.771,0,0,1,295.836,59.362Z" transform="translate(1410.5 1400.001)"/>
+  </g>
+</svg>

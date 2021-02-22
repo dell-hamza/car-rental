@@ -2,130 +2,179 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta hTp-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>reservation</title>
+    <title>GALLERY</title>
     <link rel="stylesheet" href="style.css">
+
+
 </head>
-<body>
+
+<body style="background-color:#F1F2F8" >
     <header>
-		<img class="logo" src="logo.svg" alt="#">  
-		 <nav>
-		   <ul class="nav-area">
-			<li><a href="home.html">accueil</a></li>
-			<li><a href="gallery.html">Gallerie</a></li>
-			<li><a href="reservation.html">Réservation</a></li>
-			<li><a href="contact.html">contact</a></li>
-		   
-			  
-		   </ul>
-		  </nav>
-		 <div style="margin-left: 5px">
-			   <a class="btn-area" style="   background: #FE5C4D;" href="#">Se connecter</a>
-			   <a class="btn-area" style="background-color: #fff8f7; color: black;" href="#">s'inscrire</a>
-   
-		 </div>
-	   </header>  
-
-       <h1 style="font-size: 800%; margin-left: 380px;color: #1B173F;"> Réservation </h1>
-
-
-       <div class="cards-holder" style="margin: 30px;">
-
-        <div class="card-holder">
-            <div class="image"  style="background-image: url(TT.png);"> </div> 
-           <div class="vv">  
-               <h3 style=" padding-top: 5px; margin-left: 8px;"><span class="col">MOTO</span></h3>
-               
+        <img class="logo" src="imgs/logo.svg" alt="#">  
+         <nav>
+           <ul class="nav-area">
+            <li><a href="home.html">accueil</a></li>
+            <li><a href="gallery.html">Gallerie</a></li>
+            <li><a href="reservation.html">Réservation</a></li>
+            <li><a href="contact.html">contact</a></li>
            
-           </div>
-    
-        </div>
+           </ul>
+          </nav>
        
-        <div class="card-holder">
-            <div class="image" style="background-image: url(T.png);"> </div> 
-           <div class="vv">  
-               <h3 style=" padding-top: 5px; margin-left: 8px;"><span class="col"> COMPACT </span></h3>
-               
-           
-           </div>
-    
-        </div>
-       
-        <div class="card-holder">
-            <div class="image" style="background-image: url(O.png);"> </div> 
-           <div class="vv">  
-               <h3 style=" padding-top: 5px; margin-left: 8px;"> <span class="col">CITADIN </span></h3>
-             
-           
-           </div>
-    
-        </div>
-       
-        <div class="card-holder">
-            <div class="image" style="background-image: url(Y.png);"> </div> 
-           <div class="vv">  
-               <h3 style=" padding-top: 5px; margin-left: 8px;"><span class="col">UTILITAIRE </span></h3>
-             
-           
-           </div>
-    
-        </div>
-       
-        <div class="card-holder">
-            <div class="image" style="background-image: url(l.png);"> </div> 
-           <div class="vv">  
-               <h3 style=" padding-top: 5px; margin-left: 8px;"> <span class="col">SEDAN/BERLIN </span></h3>
-             
-           
-           </div>
-    
-        </div>
-       
-        <div class="card-holder">
-            <div class="image" style="background-image: url(c.png);"> </div> 
-           <div class="vv">  
-               <h3 style=" padding-top: 5px; margin-left: 8px;"> <span class="col">CAMION</span></h3>
-              
-           
-           </div>
-    
-        </div>
-       
-        <div class="card-holder">
-            <div class="image" style="background-image: url(z.png);"> </div> 
-           <div class="vv">  
-               <h3 style=" padding-top: 5px; margin-left: 8px;"> <span class="col">ENGIN DE CHANTIER</span></h3>
+       </header>  
+ 
+<h1 class="fix">Type de véhicule</h1>
 
-
-
-              
-           
-           </div>
-    
-        </div>
-       
-       
-            <div class="inpt" id="form" >
-                <label>type</label>
-               <select name="type" id="type">
-                   <option value="type"></option>
-               </select>
-               <label>carburant</label>
-               <select name="carburant" id="carburant">
-                   <option value="carburant"></option>
-               </select>
-               <label>boite à vitesse </label>
-               <select name="boite" id="boite">
-                   <option value="boite"></option>
-               </select>
-               <input type="text"  id="subject" class="inpts"  placeholder="Nombre du jours">
-               <button type="button" onclick="" class="btn bt">Réserver</button>
-            </div>
-        
-        
-    
+    <div class="type">
+        <img class="slide" id="moto" src="imgs/TT.png" alt="motorcycle" onclick="choix(this.id)">
+        <img class="slide" id="compact" src="imgs/T.png" alt="compact-car" onclick="choix(this.id)">
+        <img class="slide" id="citadine" src="imgs/O.png" alt="citadine-car" onclick="choix(this.id)">
+        <img class="slide" id="utilitaire" src="imgs/Y.png" alt="utilitaire-car" onclick="choix(this.id)">
+        <img class="slide" id="berlin" src="imgs/l.png" alt="berlin-car" onclick="choix(this.id)">
+        <img class="slide" id="truck" src="imgs/c.png" alt="truck" onclick="choix(this.id)">
+        <img class="slide" id="cm" src="imgs/z.png" alt="construction-machine" onclick="choix(this.id)">
     </div>
-   
+    
+    <!------------------------feul------------------------>
+    
+    <h1 class="fix">Select your fuel type</h1>
+    <form class="feul">
+        <div class="carburant" >
+            <input type="radio" id="essence" name="radio" value="0.14" onclick="fuelP(this.value)">
+            <label for="essence">Essence</label>
+        </div>
+        <div class="carburant" >
+            <input type="radio" id="diesel" name="radio" value="0.21" onclick="fuelP(this.value)">
+            <label for="diesel">Diesel</label>
+        </div>
+        <div class="carburant" >
+            <input type="radio" id="electrique" name="radio" value="0.05" onclick="fuelP(this.value)">
+            <label for="electrique">Electrique</label>
+        </div>
+        <div class="carburant" >
+            <input type="radio" id="hybride" name="radio" value="0.09" onclick="fuelP(this.value)">
+            <label for="hybride">Hybride</label>
+        </div>
+    </form>
+
+    <!-----------------------gear box----------------------->
+
+    <h1 class="fix">Select your gear box type</h1>
+    <form class="gear-box">
+        <div class="gear" id="manual1">
+            <input type="radio" id="manual" name="gear" value="manual">
+            <label for="manual">Manual</label>
+        </div>
+        <div class="gear" id="automatic1">
+            <input type="radio" id="automatic" name="gear" value="automatic">
+            <label for="automatic">Automatic</label>
+        </div>
+    </form>
+
+    <!-----------------------Reservation duration----------------------->
+
+    <h1 class="fix">Reservation duration</h1>
+    <div class="duration">
+        <label for="date">Duration :</label>
+        <input type="number" id="days" name="days">
+    </div>
+    <div class="submit-1">
+        <input type="submit" name="" value="Submit" onclick="calc()" class="submit">
+    </div>
 </body>
-</html>
+<script >
+    var type,basePrice,fuel,tranPrice = 0,total;
+
+
+function choix(e) {
+    type = e;
+    var a=document.getElementsByName('radio');
+    for(var i=0;i<a.length;i++){
+        a[i].disabled = true;
+    }
+
+
+    var b=document.getElementsByName('gear');
+    for(var i=0;i<b.length;i++){
+        b[i].disabled = true;
+    }
+
+
+    switch (type) {
+        case "moto": document.querySelector("#essence").disabled = false;
+                     document.querySelector("#electrique").disabled = false;
+                     basePrice = 10;
+        break;
+        
+
+        case "compact": document.querySelector("#manual").disabled = false;
+                        document.querySelector("#manual").checked = true;
+                        document.querySelector("#hybride").disabled = false;
+                        document.querySelector("#essence").disabled = false;
+                        document.querySelector("#diesel").disabled = false;
+                        basePrice = 14;
+        break;
+
+
+        case "citadine": document.querySelector("#manual").disabled = false;
+                         document.querySelector("#manual").checked = true;
+                         document.querySelector("#electrique").disabled = false;
+                         document.querySelector("#hybride").disabled = false;
+                         document.querySelector("#essence").disabled = false;
+                         document.querySelector("#diesel").disabled = false;
+                         basePrice = 12;
+        break;
+
+
+        case "utilitaire": document.querySelector("#manual").disabled = false;
+                           document.querySelector("#manual").checked = true;
+                           document.querySelector("#diesel").disabled = false;
+                           document.querySelector("#diesel").checked = true;
+                           basePrice = 16;
+        break;
+
+        case "berlin": document.querySelector("#automatic").disabled = false;
+                       document.querySelector("#automatic").checked = true;
+                       document.querySelector("#hybride").disabled = false;
+                       document.querySelector("#essence").disabled = false;
+                       document.querySelector("#diesel").disabled = false;
+                       basePrice = 20;
+                       tranPrice = 0.19;
+        break;
+
+        case "truck": document.querySelector("#automatic").disabled = false;
+                      document.querySelector("#automatic").checked = true;
+                      document.querySelector("#diesel").disabled = false;
+                      document.querySelector("#diesel").checked = true;
+                      basePrice = 250;
+                      tranPrice = 0.19;
+        break;
+
+        case "cm": document.querySelector("#manual").disabled = false;
+                   document.querySelector("#manual").checked = true;
+                   document.querySelector("#diesel").disabled = false;
+                   document.querySelector("#essence").disabled = false;
+                   basePrice = 900;
+        break;
+        
+    }
+
+
+}
+
+ /* fuel */
+function fuelP(e) {
+    fuel = e;
+}
+
+/* calcul */
+function calc(){
+    var days = document.querySelector("#days").value;
+
+    total = (basePrice +( basePrice * fuel ) + (basePrice * tranPrice))*days;
+    
+    alert(total);
+}
+</script>
